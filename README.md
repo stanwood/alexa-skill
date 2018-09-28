@@ -1,4 +1,4 @@
-[![docs badge](https://readthedocs.org/projects/alexa-skill/badge/?version=latest&style=flat)](https://alexa-skill.readthedocs.io/en/stable/)
+[![docs badge](https://readthedocs.org/projects/alexa-skill/badge/?version=latest&style=flat)](https://alexa-skill.readthedocs.io/en/latest/)
 
 # alexa-skill
 
