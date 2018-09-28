@@ -1,6 +1,6 @@
 # alexa-skill
 
-[alexa-skill](https://github.com/stanwood/) is flexible, easy to use and extend package for creating Alexa skill applications.
+[alexa-skill](https://github.com/stanwood/alexa-skill) is flexible, easy to use and extend package for creating Alexa skill applications.
 
 This package is based on [alexa documentation](https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html).
 
