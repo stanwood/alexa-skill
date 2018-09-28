@@ -4,6 +4,15 @@
 
 This package is based on [alexa documentation](https://developer.amazon.com/docs/custom-skills/request-and-response-json-reference.html).
 
+
+## Installing
+
+Install and update using pip:
+
+```bash
+pip install -U alexa-skill
+```
+
 ## Examples
 
 Define intent class
