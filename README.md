@@ -1,3 +1,5 @@
+[![docs badge](https://readthedocs.org/projects/alexa-skill/badge/?version=latest&style=flat)](https://alexa-skill.readthedocs.io/en/stable/)
+
 # alexa-skill
 
 [alexa-skill](https://github.com/stanwood/alexa-skill) is flexible, easy to use and extend package for creating Alexa skill applications.
