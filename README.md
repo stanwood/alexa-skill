@@ -1,4 +1,5 @@
 [![docs badge](https://readthedocs.org/projects/alexa-skill/badge/?version=latest&style=flat)](https://alexa-skill.readthedocs.io/en/latest/)
+[![Build Status](https://travis-ci.org/stanwood/alexa-skill.svg?branch=master)](https://travis-ci.org/stanwood/alexa-skill)
 
 # alexa-skill
 
